@@ -19,8 +19,8 @@ import java.util.logging.Level;
 
 import okhttp3.CertificatePinner;
 import okhttp3.OkHttpClient;
-import vip.mae.picscore1.utils.MD5Util;
-import vip.mae.picscore1.utils.UserService;
+import vip.mae.baseutil.MD5Util;
+import vip.mae.baseutil.UserService;
 
 public class MyApplication extends Application {
 

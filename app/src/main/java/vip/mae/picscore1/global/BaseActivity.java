@@ -10,9 +10,8 @@ import android.widget.Toast;
 import org.greenrobot.eventbus.Subscribe;
 import org.greenrobot.eventbus.ThreadMode;
 
-import vip.mae.picscore1.utils.BaseEvent;
-import vip.mae.picscore1.utils.UserService;
-
+import vip.mae.baseutil.BaseEvent;
+import vip.mae.baseutil.UserService;
 
 /**
  * Created by zht on 2017/04/07 9:04

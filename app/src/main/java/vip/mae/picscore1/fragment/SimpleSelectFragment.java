@@ -21,13 +21,13 @@ import com.lzy.okgo.model.Response;
 
 import org.greenrobot.eventbus.EventBus;
 
+import vip.mae.baseutil.BaseEvent;
 import vip.mae.picscore1.R;
 import vip.mae.picscore1.entity.AllPicByLandId;
 import vip.mae.picscore1.entity.PicFraction;
 import vip.mae.picscore1.entity.ResultData;
 import vip.mae.picscore1.global.Apis;
 import vip.mae.picscore1.global.BaseFragment;
-import vip.mae.picscore1.utils.BaseEvent;
 
 public class SimpleSelectFragment extends BaseFragment {
 

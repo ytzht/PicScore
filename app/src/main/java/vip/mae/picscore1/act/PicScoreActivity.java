@@ -25,12 +25,12 @@ import org.greenrobot.eventbus.ThreadMode;
 import java.util.ArrayList;
 import java.util.List;
 
+import vip.mae.baseutil.BaseEvent;
 import vip.mae.picscore1.R;
 import vip.mae.picscore1.entity.AllPicByLandId;
 import vip.mae.picscore1.fragment.SimpleSelectFragment;
 import vip.mae.picscore1.global.Apis;
 import vip.mae.picscore1.global.BaseActivity;
-import vip.mae.picscore1.utils.BaseEvent;
 
 public class PicScoreActivity extends BaseActivity implements OnTabSelectListener {
 

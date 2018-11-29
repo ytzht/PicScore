@@ -1,4 +1,4 @@
-package vip.mae.picscore1.utils;
+package vip.mae.baseutil;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

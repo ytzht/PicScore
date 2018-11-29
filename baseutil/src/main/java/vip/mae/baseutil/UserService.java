@@ -1,4 +1,4 @@
-package vip.mae.picscore1.utils;
+package vip.mae.baseutil;
 
 import android.content.Context;
 import android.content.SharedPreferences;
